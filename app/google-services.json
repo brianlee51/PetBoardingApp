@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339925668121",
+    "firebase_url": "https://pet-boarding-app-71f11.firebaseio.com",
+    "project_id": "pet-boarding-app-71f11",
+    "storage_bucket": "pet-boarding-app-71f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339925668121:android:9126faaebd277192",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.petboardingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339925668121-uc02aq5njl9l3ebv5fsdtut3u470ctrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQJNZHEnNmJOcsVSA8YV-SK_Y2WqQ6FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339925668121-uc02aq5njl9l3ebv5fsdtut3u470ctrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

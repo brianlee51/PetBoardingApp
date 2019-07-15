@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PetBoardingApp</string>
+    <string-array name="type">
+        <item>Cat</item>
+        <item>Dog</item>
+    </string-array>
+</resources>
